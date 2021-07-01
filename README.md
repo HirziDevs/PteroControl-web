@@ -1,4 +1,4 @@
-## PteroControl Updated(1.0) 
+## PteroControl (1.0) 
 
 ![img](https://media.discordapp.net/attachments/796243715014131714/857837120252411904/20210625_111805.jpg)
 
